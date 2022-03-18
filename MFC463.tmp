@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Andy Pan | Home</title>
+<link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="container">
+  <!-- #masthead -->
+  <div id="masthead">
+    <h1><a href="index.html">Learning Sciences<br><span id="sub-head">Design Portfolio</span></a></h1>
+    <ul>
+      <li id="home"><a href="">Home</a></li>
+      <li id="portfolio"><a href="projects.html">Project</a></li>
+      <li id="about"><a href="about.html">About</a></li>
+      <li id="media"><a href="media.html">Media</a></li>
+      <li id="contact"><a href="contact.html">Contact</a></li>
+    </ul>
+  </div>
+  <!-- #featured-area -->
+  <div id="featured-area">
+    <div id="description">
+      <p style="font-size: 26.5px; text-align: center;">"Talent wins games, but teamwork and intelligence wins championships.&quot;<br>
+        </p>
+      <p style="font-size: 26.5px; text-align: center;"><span style="font-size: 16px; float:right; margin-right: 10px;">- Michael Jordan </span></p>
+    </div>
+    <div id="preview">
+      <img src="media/index-feature.jpg" width="405" height="205" alt="preview" />
+    </div>
+  </div>
+  <!-- #main-content"  -->
+  <div id="main-content">
+    <div id="left-column">
+<br>
+      <h2 class="capital">Research interests</h2>
+      <p>I am interested in how customized designs meet various 
+         developmental cognitive issues and challenges. 
+         Particularly, I would like to further my studies in how 
+         children learn in a diverse cultural environment. 
+         Currently, in my cognitive learning design research, 
+         I have created a math gadget called “Magic Zero” to 
+         teach children how to conceptualize zero.</p>
+         <br>
+    <h2 class="capital">Areas of Interest</h2>
+    <p>Learning Sciences, Cognitive-sciences Embodiment, 
+    Artificial Intelligence (AI), Machine Learning, 
+    Mobile Programming Development, Computer Modeling of Human Cognition, 
+    Design-Based Learning, Robotics, Multimedia Production,, Game Development</p>
+    </div>
+    <div id="right-column">
+      
+      <div class="featured">
+        <div class="content">
+          <img src="media/index-minifeature1.jpg" width="455" height="145" alt="featured" />
+        </div>
+      </div>
+      <div class="featured">
+        <div class="content">
+          <img src="media/index-minifeature2.jpg" width="455" height="145" alt="featured" />
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
+<!-- #footer -->
+<div id="footer">
+  <p>&copy;2011-2012 Andy Studio Work. All Rights Reserved.</p>
+</div>
+</body>
+</html>
